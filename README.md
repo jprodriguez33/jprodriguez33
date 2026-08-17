@@ -1,4 +1,4 @@
-Hello, I'm JP and I like to break things and then fix them. 
+Hello, I'm JP and I like to break and fix things
 
 <!---
 jprodriguez33/jprodriguez33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
